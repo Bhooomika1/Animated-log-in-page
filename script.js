@@ -8,4 +8,4 @@ loginButton.addEventListener("click", () => {
 
 registerButton.addEventListener("click", () => {
     container.classList.add("right-panel-active");
-});
+});   
